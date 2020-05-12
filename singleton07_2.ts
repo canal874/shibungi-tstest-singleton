@@ -5,8 +5,6 @@
 
 /* Tested with tsc 3.8.3 with strict compiler options */
 
-export {}
-
 /**
  * Singleton Factory
  */
